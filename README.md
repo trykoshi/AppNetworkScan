@@ -18,8 +18,8 @@ pip install psutil aiohttp pillow requests
 💻 Installation and Usage
 Clone the repository:
 
-git clone 
-cd 
+git clone https://github.com/trykoshi/AppNetworkScan.git 
+cd AppNetworkScan
 Run the script:
 
 
